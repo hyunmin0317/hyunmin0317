@@ -6,8 +6,6 @@
 
 # Hyunmin's Github
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/prgr.minn__/)](https://www.instagram.com/prgr.minn__/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100031649032539)](https://www.facebook.com/profile.php?id=100031649032539) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=choihm9903@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=choihm9903@gmail.com)
-
 ## :trophy: Career
 
 |  Type  |       Date        |                                              Name                                               |   Organization   |                                                :star:                                                |
