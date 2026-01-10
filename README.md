@@ -38,11 +38,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/>
   <img src="http://is.am/63dd"/>
 
-- ### NoSQL
-
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=round-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"/>
-
 - ### DevOps
 
   <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
