@@ -24,19 +24,19 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
 
-- ### Backend
+- ### Framework
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=round-square&logo=fastapi&logoColor=white"/>
 
-- ### RDBMS
+- ### Database
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/>
   <img src="http://is.am/63dd"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=round-square&logo=redis&logoColor=white"/>
+  <img src="http://is.am/642w"/>
 
 - ### DevOps
 
@@ -50,23 +50,9 @@
 
   <img src="http://is.am/63dc"/>
   <img src="http://is.am/63db"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=round-square&logo=googlecloud&logoColor=white"/>
 
-- ### Build Tool
+- ### Monitoring
 
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=round-square&logo=apachemaven&logoColor=white"/>
-
-- ### Server
-
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=round-square&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=NGINX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JBoss-EC5A33?style=round-square&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=round-square&logo=Apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=round-square&logo=Gunicorn&logoColor=white"/>
-
-- ### Grafana Stack
-
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=round-square&logo=grafana&logoColor=white"/>
-  <img src="http://is.am/63da"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=round-square&logo=prometheus&logoColor=white"/>
+  <img src="http://is.am/63da"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=round-square&logo=grafana&logoColor=white"/>
