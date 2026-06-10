@@ -4,18 +4,6 @@
 
 # Hyunmin's Github
 
-## :trophy: Career
-
-| Type |       Date        |                                         Name                                         |   Organization   |                                                :star:                                                |
-|:----:|:-----------------:|:------------------------------------------------------------------------------------:|:----------------:|:----------------------------------------------------------------------------------------------------:|
-| 대학교  | 2019.03 ~ 2023.02 |                                        컴퓨터과학과                                        |      상명대학교       |                                            :mortar_board:                                            |
-| 동아리  | 2020.03 ~ 2020.12 |                                       LIKELION                                       |     멋쟁이사자처럼      |                                                :lion:                                                |
-| 동아리  | 2021.03 ~ 2022.06 |                                      SK LOOKIE                                       |    SK 행복나눔재단     |                                             :butterfly:                                              |
-| 동아리  | 2022.09 ~ 2023.02 |                                         UMC                                          | MakeUs Challenge |                                                  ⛓️                                                  |
-|  인턴  | 2022.01 ~ 2022.02 |                              AI & Big Data Convergence                               |      Mongta      |                                               :monkey:                                               |
-|  인턴  | 2022.06 ~ 2022.12 | [DATA AI](https://github.com/hyunmin0317/hyunmin0317/blob/main/naver_internship.pdf) |      NAVER       | <img src="https://img.shields.io/badge/NAVER-03C75A?style=round-square&logo=NAVER&logoColor=white"/> |
-| 군복무  |     2023.05 ~     |                                       AI체계개발팀                                        |     대한민국 공군      |                                                 🇰🇷                                                 |
-
 ## :hammer_and_wrench: Tech Stack
 
 - ### Language
