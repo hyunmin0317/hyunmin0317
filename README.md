@@ -4,8 +4,6 @@
 
 # Hyunmin's Github
 
-## :hammer_and_wrench: Tech Stack
-
 - ### Language
 
   <img src="http://is.am/63de"/>
